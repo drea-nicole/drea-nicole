@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @drea-nicole
+- 👀 I’m interested in front-end development & web3
+- 🌱 I’m currently learning React & React Native
+- 💞️ I’m looking to collaborate on NFT projects and contribute to seed-stage start-ups
+- 📫 How to reach me: Email if you want formality. if not, DM me on Twitter 
